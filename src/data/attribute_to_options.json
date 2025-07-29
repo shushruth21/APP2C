@@ -1,0 +1,148 @@
+{
+  "Model": [
+    "Dale",
+    "Decker",
+    "Crave",
+    "Dapper",
+    "Conrad",
+    "Dana",
+    "Hale",
+    "Contour",
+    "Sloafer",
+    "Fandango"
+  ],
+  "No. of seat/s": [
+    "3 Str",
+    "2 Str"
+  ],
+  "Do you need lounger?": [
+    "Yes",
+    "No"
+  ],
+  "Lounger position": [
+    "Right Hand Side (picture)",
+    "Left Hand Side (picture)"
+  ],
+  "Lounger Length": [
+    "6.5 (Six and a half) feet",
+    "6 (Six) feet",
+    "5.5 (Five and a half) feet",
+    "7 (Seven) feet"
+  ],
+  "Seat width": [
+    "22\"\" (Tweentytwo inches)",
+    "26\"\" (Tweentysix inches)",
+    "28\"\" (Tweentyeight inches)",
+    "24\"\" (Tweentyfour inches)"
+  ],
+  "Arm rest type": [
+    "Box",
+    "Default",
+    "Ocean",
+    "Smug"
+  ],
+  "Do you need console/s?": [
+    "Yes",
+    "No"
+  ],
+  "How many consoles?": [
+    "2 (Two)",
+    "1 (One)"
+  ],
+  "Consol type": [
+    "6\"\" (Six inches)",
+    "10\"\" (Ten inches)"
+  ],
+  "Do you need Corner unit?": [
+    "Yes",
+    "No"
+  ],
+  "Seat depth": [
+    "22\"\" (Tweentytwo inches)",
+    "24\"\" (Tweentyfour inches)"
+  ],
+  "Seat Height": [
+    "16\"\" (Sixteen inches)",
+    "18\"\" (Eighteen inches)"
+  ],
+  "Wood type": [
+    "Neem",
+    "Pine"
+  ],
+  "Foam Type-Seats": [
+    "20-D SSG",
+    "40-D U/R",
+    "Candy C",
+    "32-D P"
+  ],
+  "Foam Type-Back rest": [
+    "20-D SSG",
+    "32-D P"
+  ],
+  "Fabric cladding plan": [
+    "Sin Colour",
+    "Tri Colour",
+    "Dual Colour"
+  ],
+  "Fabric code": [
+    "Vendor2-Collection-Name-Colour-Code",
+    "Vendor1-Collection-Name-Colour-Code",
+    "Vendor3-Collection-Name-Colour-Code"
+  ],
+  "Legs": [
+    "Stainles Steel",
+    "Mild Steel-Black",
+    "Wood-???",
+    "Mild Steel-Brown",
+    "Wood-Teak",
+    "L8",
+    "L10",
+    "Golden",
+    "L9",
+    "Wood-Walnut"
+  ],
+  "Accessories": [
+    "USB"
+  ],
+  "Stitching type": [
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "Dimentions": [
+    "Single-36\"\"/78\"\"",
+    "Double XL-48\"\"/78\"\"",
+    "King-72\"\"/78\"\"",
+    "King XL-78\"\"/78",
+    "Queen-66\"\"/78\"\""
+  ],
+  "Storage opiton": [
+    "With Storage",
+    "Without Storage"
+  ],
+  "Storage type": [
+    "Side Draws",
+    "Box Storage"
+  ],
+  "Headboard Design": [
+    "Type 2",
+    "Tyoe 1"
+  ],
+  "Leg options": [
+    "Type 2..4",
+    "Tyoe 1-.2\"\""
+  ],
+  "Recliner": [
+    "RHS",
+    "N/A",
+    "LHS"
+  ],
+  "Seater Type": [
+    "With Sofa Cum Bed",
+    "Without Sofa Cum Bed"
+  ],
+  "Lounger Storage opiton": [
+    "With Storage",
+    "Without Storage"
+  ]
+}
